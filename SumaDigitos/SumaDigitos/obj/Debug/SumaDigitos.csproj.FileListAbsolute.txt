@@ -1,0 +1,16 @@
+C:\Users\PC\Documents\Testeo\SumaDigitos\SumaDigitos\bin\Debug\SumaDigitos.exe.config
+C:\Users\PC\Documents\Testeo\SumaDigitos\SumaDigitos\bin\Debug\SumaDigitos.exe
+C:\Users\PC\Documents\Testeo\SumaDigitos\SumaDigitos\bin\Debug\SumaDigitos.pdb
+C:\Users\PC\Documents\Testeo\SumaDigitos\SumaDigitos\obj\Debug\SumaDigitos.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Testeo\SumaDigitos\SumaDigitos\obj\Debug\SumaDigitos.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Documents\Testeo\SumaDigitos\SumaDigitos\obj\Debug\SumaDigitos.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Testeo\SumaDigitos\SumaDigitos\obj\Debug\SumaDigitos.exe
+C:\Users\PC\Documents\Testeo\SumaDigitos\SumaDigitos\obj\Debug\SumaDigitos.pdb
+C:\Users\PC\Documents\4 programas\ExamenWebDeveloper\SumaDigitos\SumaDigitos\bin\Debug\SumaDigitos.exe.config
+C:\Users\PC\Documents\4 programas\ExamenWebDeveloper\SumaDigitos\SumaDigitos\bin\Debug\SumaDigitos.exe
+C:\Users\PC\Documents\4 programas\ExamenWebDeveloper\SumaDigitos\SumaDigitos\bin\Debug\SumaDigitos.pdb
+C:\Users\PC\Documents\4 programas\ExamenWebDeveloper\SumaDigitos\SumaDigitos\obj\Debug\SumaDigitos.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\4 programas\ExamenWebDeveloper\SumaDigitos\SumaDigitos\obj\Debug\SumaDigitos.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Documents\4 programas\ExamenWebDeveloper\SumaDigitos\SumaDigitos\obj\Debug\SumaDigitos.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\4 programas\ExamenWebDeveloper\SumaDigitos\SumaDigitos\obj\Debug\SumaDigitos.exe
+C:\Users\PC\Documents\4 programas\ExamenWebDeveloper\SumaDigitos\SumaDigitos\obj\Debug\SumaDigitos.pdb
